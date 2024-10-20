@@ -1,1 +1,1 @@
-unzip zphisher-master.zip && rm zphisher-master.zip && unzip sherlock-master.zip && rm sherlock-master.zip && unzip overload-main.zip && rm overload-main.zip && clear
+pkg update && pkg install git -y && pkg install python3 python3-pip git -y && git clone --depth=1 https://github.com/htr-tech/zphisher.git && git clone https://github.com/7zx/overload.git && git clone https://github.com/0xf15/change-username-tiktok.git && git clone https://github.com/sherlock-project/sherlock.git && clear
