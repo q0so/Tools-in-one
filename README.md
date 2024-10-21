@@ -6,6 +6,10 @@ Install and Run :
 ```
 pkg install git -y && git clone https://github.com/q0so/Tools-in-one.git && cd Tools-in-one && bash setup.sh
 ```
+ReInstall :
+```
+bash resetup.sh
+```
 Uninstall :
 ```
 bash uninstall.sh
