@@ -25,4 +25,5 @@ The tools in this tool :
 [wifite2](https://github.com/kimocoder/wifite2)  
 [Numbers-counter](https://github.com/q0so/Numbers-counter)  
 [JS_URL_Finder](https://github.com/securi3ytalent/JS_URL_Finder)  
-[JS_domainToIP](https://github.com/securi3ytalent/JS_domainToIP)
+[JS_domainToIP](https://github.com/securi3ytalent/JS_domainToIP)  
+[WADark](https://github.com/cyb3rhex/WADark.git)
