@@ -13,4 +13,5 @@ git clone https://github.com/kimocoder/wifite2.git &&
 git clone https://github.com/q0so/Numbers-counter.git &&
 git clone https://github.com/securi3ytalent/JS_URL_Finder.git &&
 git clone https://github.com/securi3ytalent/JS_domainToIP.git &&
+https://github.com/cyb3rhex/WADark.git &&
 clear
