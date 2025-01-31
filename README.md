@@ -16,8 +16,7 @@ bash uninstall.sh
 ```
 
 The tools in this tool :  
-[DDoS Ripper](https://github.com/palahsu/DDoS-Ripper.git)
-
+[DDoS-Ripper](https://github.com/palahsu/DDoS-Ripper.git)
 [zphisher](https://github.com/htr-tech/zphisher)  
 [overload](https://github.com/7zx/overload)  
 [change-username-tiktok](https://github.com/0xf15/change-username-tiktok)  
